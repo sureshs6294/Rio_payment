@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "530003093536",
+    "firebase_url": "https://rio-pay.firebaseio.com",
+    "project_id": "rio-pay",
+    "storage_bucket": "rio-pay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530003093536:android:3777f89f55f9e71c",
+        "android_client_info": {
+          "package_name": "app.riopay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530003093536-eq88in5rhra1j29e54nv176dt2q0ek6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.riopay",
+            "certificate_hash": "0f30ba31c3bab4b467dc9366cd9d6ef99f23bb02"
+          }
+        },
+        {
+          "client_id": "530003093536-rfcvd36cb1ubnjm64f7l3tlfj1l9osjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCteOhXjZ5If2cT0QN_xD6c8JWq0lXmpGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530003093536-rfcvd36cb1ubnjm64f7l3tlfj1l9osjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

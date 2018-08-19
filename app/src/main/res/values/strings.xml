@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Rio Pay</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign up</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="signup_txt">Sign up with Rio Pay</string>
+    <string name="login_txt">Login with Rio Pay</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_Transcation">Transcation</string>
+    <string name="title_profile">Profile</string>
+    <string name="client_id_paypal">AWuCXZpwTJjd7VmzKnkUIjA-OSAQUaAoXJ3YnJ2x4PYrzEVOcj_B3fKZAlq0PaeOCdTy3P4hMII4pOBO</string>
+    <string name="btn_pay">Pay</string>
+</resources>
